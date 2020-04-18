@@ -1,0 +1,3 @@
+Hola soy un archivo de texto
+Fuente del archivo 
+se encuentra en la carpeta compartidatexto agregado en el archivotexto agregado en el archivo

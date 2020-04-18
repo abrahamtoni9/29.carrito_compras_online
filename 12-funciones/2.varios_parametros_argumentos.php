@@ -1,0 +1,26 @@
+<?php
+
+function calculadora ($numero1, $numero2)
+{
+    //conjunto de instruccciones a ejecutar
+
+    $suma = $numero1 + $numero2;
+    $resta = $numero1 - $numero2;
+    $multiplicacion = $numero1 * $numero2;
+    $division = $numero1 / $numero2;
+    echo "suma :  $suma </br>";
+    echo "resta :  $resta </br>";
+    echo "multiplicacion :  $multiplicacion </br>";
+    echo "division :  $division </br>";
+    echo "</Hr>";
+
+
+}
+
+
+calculadora(10 , 30 );      
+calculadora(5 , 10 );      
+calculadora(7 , 12 );      
+
+
+?>
